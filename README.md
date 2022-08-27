@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Jay Lawrence AKA Synthesis</h1>
-<h3 align="center">A passionate software developer and aspiring Web3 developer.</h3>
+<h3 align="center">A passionate software developer and aspiring Web3 developer. y00tlisted soon ✨</h3>
 
 # 💫 About Me:
+🤔 MERN Web Developer
+💫 NFT and Crypto Enthusiast
 🌱 I’m currently learning Rust, Next JS, and Blockchain
 
 
