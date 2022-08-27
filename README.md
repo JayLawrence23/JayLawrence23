@@ -2,8 +2,8 @@
 <h3 align="center">A passionate software developer and aspiring Web3 developer. y00tlisted soon ✨</h3>
 
 # 💫 About Me:
-🤔 MERN Web Developer
-💫 NFT and Crypto Enthusiast
+🤔 MERN Web Developer <br>
+💫 NFT and Crypto Enthusiast <br>
 🌱 I’m currently learning Rust, Next JS, and Blockchain
 
 
