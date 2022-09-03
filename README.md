@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3800&pause=750&color=DE6D74&background=3F61FF00&center=true&vCenter=true&lines=Hello%2C+Anon!+%F0%9F%91%8B;I+am+Jay+Lawrence+;Synthesis+in+Web3+Space+%F0%9F%A4%AB;Welcome+to+my+Github+%F0%9F%92%BB" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3800&pause=750&color=DE6D74&background=3F61FF00&center=true&vCenter=true&width=450&lines=Hello%2C+Anon!+%F0%9F%91%8B;I+am+Jay+Lawrence+;Synthesis+in+Web3+Space+%F0%9F%A4%AB;Welcome+to+my+Github+%F0%9F%92%BB)](https://git.io/typing-svg)
 
 <h3 align="center">A passionate software developer and aspiring Web3 developer. y00tlisted soon ✨</h3>
 
