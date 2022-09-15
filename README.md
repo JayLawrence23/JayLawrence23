@@ -5,7 +5,6 @@
 # 💫 About Me:
 🤔 MERN Web Developer <br>
 💫 NFT and Crypto Enthusiast <br>
-🌱 I’m currently learning Rust and Blockchain technology
 
 
 ## 🌐 Socials:
