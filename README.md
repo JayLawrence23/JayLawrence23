@@ -5,7 +5,7 @@
 # 💫 About Me:
 🌱 I’m currently learning Typescript and Next JS<br>
 💫 NFT and Crypto Enthusiast <br>
-🚀 MERN Stack Dev
+🚀 MERN Stack Dev <br>
 👯 I’m looking to collaborate on building Web App projects
 
 
