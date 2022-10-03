@@ -3,8 +3,9 @@
 <h3 align="center">Software Developer and aspiring Web3 Developer. ✨</h3>
 
 # 💫 About Me:
-🤔 MERN Web Developer <br>
+🤔 Currently learning Typescript and Next JS<br>
 💫 NFT and Crypto Enthusiast <br>
+🚀 MERN Stack Dev
 
 
 ## 🌐 Socials:
