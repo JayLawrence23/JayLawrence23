@@ -18,6 +18,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JayLawrence23&icon=0&color=6)](https://visitcount.itsvg.in)
 
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=JayLawrence23&theme=midnight-purple&hide_border=true&border_radius=10&background=00000000)](https://git.io/streak-stats">
 
 
 <!--
