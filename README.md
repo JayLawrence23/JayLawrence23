@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Developer and aspiring Web3 Developer. ✨</h3>
 
-# <h3>💫 About Me: </h3>
+# <h3>👨 About Me: </h3>
 🌱 I’m currently learning Typescript and Next JS<br>
 💫 NFT and Crypto Enthusiast <br>
 🚀 MERN Stack Dev <br>
